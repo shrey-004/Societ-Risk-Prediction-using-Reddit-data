@@ -1,0 +1,55 @@
+# Model checkpoints (34GB+)
+outputs/checkpoints/
+
+# Training logs
+outputs/logs/
+
+# LLM intermediate predictions (large JSONL files)
+outputs/predictions/*.jsonl
+
+# Diagnostic/variant submissions (keep only final RayofHope.csv)
+outputs/predictions/RayofHope_diagnostic_*.csv
+outputs/predictions/RayofHope_variant_*.csv
+
+# Raw competition data (restricted by organizers)
+data/raw/
+
+# Generated data files (parquet, CSV — reproducible from scripts)
+data/processed/*.parquet
+data/processed/*.csv
+data/processed/folds/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+
+# Claude Code internal state
+.claude/
+
+# Conda / virtualenv
+*.conda
+.conda/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Per-fold training reports (keep only summaries)
+reports/per_fold/
+
+# Scratchpad / temp
+scratchpad/
+*.tmp
+*.bak
+
+# IDE
+.vscode/
+.idea/

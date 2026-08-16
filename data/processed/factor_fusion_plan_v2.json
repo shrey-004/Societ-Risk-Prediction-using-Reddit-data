@@ -1,0 +1,85 @@
+{
+ "hopelessness": {
+  "mode": "inter"
+ },
+ "emotion dysregulation": {
+  "mode": "prob",
+  "alpha": 0.5,
+  "t": 0.55
+ },
+ "poor social support": {
+  "mode": "llm"
+ },
+ "low self-esteem": {
+  "mode": "llm"
+ },
+ "coping strategy": {
+  "mode": "prob",
+  "alpha": 0.5,
+  "t": 0.55
+ },
+ "suicide means (with access)": {
+  "mode": "llm"
+ },
+ "mental health issues": {
+  "mode": "llm"
+ },
+ "psychological capital": {
+  "mode": "prob",
+  "alpha": 0.5,
+  "t": 0.55
+ },
+ "prior self-harm or suicidal thought/attempt": {
+  "mode": "prob",
+  "alpha": 0.35,
+  "t": 0.55
+ },
+ "interpersonal difficulty": {
+  "mode": "union"
+ },
+ "stressful life event": {
+  "mode": "llm"
+ },
+ "dysfunctional family": {
+  "mode": "llm"
+ },
+ "social support": {
+  "mode": "union"
+ },
+ "physical health/characteristic": {
+  "mode": "union"
+ },
+ "interpersonal violence": {
+  "mode": "llm"
+ },
+ "traumatic experience": {
+  "mode": "union"
+ },
+ "low socio-economic status": {
+  "mode": "llm"
+ },
+ "sense of responsibility": {
+  "mode": "llm"
+ },
+ "meaning in life": {
+  "mode": "llm",
+  "verify": true
+ },
+ "cognitive deficits": {
+  "mode": "llm",
+  "verify": true
+ },
+ "substance use": {
+  "mode": "llm"
+ },
+ "poor school performance": {
+  "mode": "llm"
+ },
+ "exposure to others' suicide": {
+  "mode": "llm"
+ },
+ "sexual orientation related issues": {
+  "mode": "llm",
+  "verify": true
+ }
+}

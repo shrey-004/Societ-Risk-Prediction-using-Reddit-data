@@ -1,0 +1,379 @@
+row_id,risk_level,evidence,factors
+P00008,Ideation,want to kill myself; killing myself is best option; I feel like killing myself,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'low socio-economic status', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'social support', 'stressful life event']"
+P00009,Ideation,want to kill myself; killing myself is best option; I feel like killing myself,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'low socio-economic status', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'social support', 'stressful life event']"
+P00010,Ideation,want to kill myself; killing myself is best option; I feel like killing myself,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'low socio-economic status', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'social support', 'stressful life event']"
+P00011,Ideation,want to kill myself; killing myself is best option; I feel like killing myself,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'low socio-economic status', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'social support', 'stressful life event']"
+P00012,Ideation,want to kill myself; killing myself is best option; I feel like killing myself,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'low socio-economic status', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'social support', 'stressful life event']"
+P00013,Ideation,make me feel suicidal,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'interpersonal difficulty', 'low self-esteem', 'poor social support', 'psychological capital', 'social support', 'traumatic experience']"
+P00014,Indicator,none,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'interpersonal difficulty', 'low self-esteem', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'social support', 'traumatic experience']"
+P00156,Ideation,im killing myself anyways; do not wish to live any longer,"['hopelessness', 'interpersonal difficulty', 'traumatic experience']"
+P00157,Behavior,i can jump to my death; trying to garner the courage to do so; feel selfish enough to jump,"['hopelessness', 'low self-esteem', 'sense of responsibility', 'suicide means (with access)']"
+P00158,Indicator,none,['hopelessness']
+P00159,Ideation,want to stop living tonight; how does one gather the courage,"['hopelessness', 'low self-esteem']"
+P00160,Behavior,finally kill myself; going to do it tonight,[]
+P00161,Behavior,in 19 hours i will be dead; i have made my decision; not going to change my mind,"['hopelessness', 'low self-esteem']"
+P00162,Behavior,i am going to try tonight; do i want to die; on the brink of death,"['emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'poor social support', 'stressful life event']"
+P00163,Behavior,trying tonight; gather the courage to jump,"['substance use', 'suicide means (with access)']"
+P00164,Behavior,"whether or not this attempt is successful; i am harming myself, it just isnt visible","['interpersonal violence', 'low self-esteem', 'poor social support']"
+P00222,Indicator,none,"['emotion dysregulation', 'hopelessness']"
+P00223,Indicator,none,"['coping strategy', 'hopelessness', 'poor social support', 'psychological capital', 'social support']"
+P00224,Ideation,squeeze me so tight i die,"['emotion dysregulation', 'poor social support']"
+P00225,Indicator,none,[]
+P00226,Ideation,what if i want to be dead,"['emotion dysregulation', 'hopelessness']"
+P00227,Indicator,none,"['emotion dysregulation', 'hopelessness', 'low self-esteem']"
+P00228,Indicator,none,[]
+P00229,Indicator,none,['poor social support']
+P00230,Indicator,none,['emotion dysregulation']
+P00231,Indicator,none,['poor social support']
+P00232,Indicator,none,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'meaning in life', 'prior self-harm or suicidal thought/attempt', 'psychological capital']"
+P00233,Ideation,kill myself; kill me kill me kill me; dont wanna be here anymore,['emotion dysregulation']
+P00273,Indicator,none,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'meaning in life', 'mental health issues', 'physical health/characteristic', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'sense of responsibility', 'social support']"
+P00274,Ideation,take me home to heaven tonight,[]
+P00275,Ideation,deliver me and my family from this world ASAP; pray for God to deliver me,"['dysfunctional family', 'stressful life event']"
+P00276,Indicator,none,"['coping strategy', 'psychological capital']"
+P00277,Indicator,none,"['emotion dysregulation', 'psychological capital']"
+P00278,Indicator,none,"['low socio-economic status', 'stressful life event']"
+P00279,Indicator,none,['psychological capital']
+P00280,Indicator,none,[]
+P00281,Indicator,none,['emotion dysregulation']
+P00282,Indicator,none,['emotion dysregulation']
+P00283,Ideation,why can’t it be my last one; wake up in heaven tomorrow,"['emotion dysregulation', 'hopelessness']"
+P00284,Ideation,ready for it to be the last; I want life on planet earth to end now,"['hopelessness', 'low socio-economic status', 'stressful life event']"
+P00351,Indicator,none,"['coping strategy', 'emotion dysregulation', 'low self-esteem']"
+P00352,Indicator,none,[]
+P00353,Behavior,try asphyxiation; thinking about it for a while now,"['hopelessness', 'sense of responsibility']"
+P00354,Indicator,none,"['coping strategy', 'emotion dysregulation', 'interpersonal difficulty', 'low self-esteem']"
+P00355,Indicator,none,['hopelessness']
+P00356,Indicator,none,"['cognitive deficits', 'coping strategy', 'emotion dysregulation', 'hopelessness', 'low self-esteem']"
+P00357,Behavior,kill me; hit myself round the face; plunged it into some water,"['emotion dysregulation', 'prior self-harm or suicidal thought/attempt']"
+P00358,Ideation,I want to go,"['emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'sense of responsibility', 'stressful life event']"
+P00359,Indicator,none,"['coping strategy', 'emotion dysregulation', 'interpersonal difficulty', 'psychological capital', 'social support']"
+P00360,Indicator,none,"['coping strategy', 'emotion dysregulation']"
+P00361,Attempt,injure my arm; hurting myself,"['cognitive deficits', 'coping strategy', 'emotion dysregulation', 'prior self-harm or suicidal thought/attempt']"
+P00362,Indicator,none,"['cognitive deficits', 'coping strategy', 'emotion dysregulation', 'hopelessness', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility']"
+P00525,Behavior,you should jump in front of that car; thinking about suicide methods,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'prior self-harm or suicidal thought/attempt', 'psychological capital']"
+P00526,Indicator,none,[]
+P00527,Behavior,sudden urges to jump out of my decently big window,['suicide means (with access)']
+P00528,Indicator,none,"['dysfunctional family', 'emotion dysregulation', 'interpersonal difficulty']"
+P00529,Indicator,none,['low self-esteem']
+P00530,Indicator,none,"['emotion dysregulation', 'low self-esteem', 'stressful life event']"
+P00531,Indicator,none,[]
+P00532,Behavior,feel suicidal tonight; nothing left for me to live for,['coping strategy']
+P00533,Indicator,none,"['interpersonal violence', 'stressful life event']"
+P00534,Ideation,more suicidal,"['coping strategy', 'interpersonal violence', 'physical health/characteristic', 'social support', 'stressful life event']"
+P00535,Ideation,I'm going to die anyway; what's the point,"['hopelessness', 'low self-esteem']"
+P00536,Indicator,none,"['coping strategy', 'social support']"
+P00537,Ideation,lost the will to live anymore,"['hopelessness', 'low self-esteem', 'poor social support']"
+P00538,Behavior,EASY WAY TO KILL YOURSELF,[]
+P00539,Indicator,none,"['hopelessness', 'stressful life event']"
+P00540,Indicator,none,"['emotion dysregulation', 'interpersonal difficulty', 'low self-esteem', 'poor social support', 'stressful life event']"
+P00541,Ideation,just waiting for death,"['coping strategy', 'hopelessness']"
+P00542,Indicator,none,[]
+P00543,Indicator,none,[]
+P00544,Behavior,self harm some before doing the deed; I only see one way out,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'poor social support']"
+P00545,Ideation,Ready to end it,['hopelessness']
+P00546,Attempt,grabbed a random bottle of pill; consumed as much as I could; started to feel fucked up,"['emotion dysregulation', 'suicide means (with access)']"
+P00547,Attempt,tried to hang myself the next day; grabbed a random bottle of pills; tied a noose when I woke up in preparation for tomorrow,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'hopelessness', 'mental health issues', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'social support', 'suicide means (with access)', 'traumatic experience']"
+P00548,Behavior,tying the noose now; play Russian roulette,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'prior self-harm or suicidal thought/attempt', 'suicide means (with access)']"
+P00704,Ideation,I would like to die,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'mental health issues', 'physical health/characteristic', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'traumatic experience']"
+P00705,Indicator,none,"['emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'poor social support']"
+P00706,Behavior,leave me to die; planning my estate; planning to get rid of my things,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', ""exposure to others' suicide"", 'interpersonal difficulty', 'interpersonal violence', 'low self-esteem', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'social support', 'traumatic experience']"
+P00707,Indicator,none,"['emotion dysregulation', 'hopelessness', 'poor social support', 'stressful life event']"
+P00708,Behavior,i,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'hopelessness', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'social support', 'stressful life event', 'traumatic experience']"
+P00709,Behavior,I will end it before then; I slept with my pistol last week; death and peace is close,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'social support', 'stressful life event', 'suicide means (with access)', 'traumatic experience']"
+P00710,Behavior,I have to do it soon; hitting myself in the legs with the rubber mallet,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'mental health issues', 'poor social support']"
+P00810,Behavior,i want to kill myself; buy a glock and shoot myself in the forest,['suicide means (with access)']
+P00811,Ideation,i would rather be dead; shoot my fucking brains out,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'psychological capital', 'social support', 'stressful life event']"
+P00812,Indicator,none,['low self-esteem']
+P00813,Behavior,buy a gun and kill myself in the forest; not ready to do it yet,"['emotion dysregulation', 'hopelessness', 'psychological capital', 'suicide means (with access)']"
+P00814,Behavior,shoot myself; never talking to anyone ever again,"['poor social support', 'suicide means (with access)']"
+P00815,Ideation,embrace  the sweet nothing of the void,"['hopelessness', 'low self-esteem']"
+P00816,Indicator,none,[]
+P00940,Ideation,plan on killing myself soon,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'social support', 'stressful life event']"
+P00941,Ideation,plan on killing myself soon,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'social support', 'stressful life event']"
+P00942,Ideation,plan on killing myself soon,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'social support', 'stressful life event']"
+P00943,Behavior,buy a shotgun and get it over with; train tracks within walking distance; plan on killing myself soon,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'social support', 'stressful life event', 'suicide means (with access)']"
+P00944,Behavior,buy a shotgun and get it over with; train tracks within walking distance; plan on killing myself soon,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'social support', 'stressful life event', 'suicide means (with access)']"
+P00945,Behavior,Gonna kill myself soon; buy a shotgun and get it over with; train tracks within walking distance,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'social support', 'stressful life event', 'suicide means (with access)']"
+P00946,Behavior,plan on killing myself soon; buy a shotgun and get it over with; train tracks within walking distance,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'social support', 'stressful life event', 'suicide means (with access)']"
+P00947,Behavior,plan on killing myself soon; buy a shotgun and get it over with; train tracks within walking distance,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'social support', 'stressful life event', 'suicide means (with access)']"
+P01053,Behavior,I think i should do it tonight; i have a blade beside me,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'sense of responsibility', 'social support', 'suicide means (with access)']"
+P01054,Ideation,i want to die i really want to die; i don’t think i will kill myself,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'poor social support']"
+P01055,Behavior,i want to stab and beat the shit out of myself; i should die a long painful death,"['emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'poor social support', 'psychological capital']"
+P01056,Ideation,wish there was a button i could just press and drop dead,[]
+P01057,Attempt,put them in my mouth and spat them out,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'social support', 'suicide means (with access)']"
+P01058,Indicator,none,"['physical health/characteristic', 'suicide means (with access)']"
+P01059,Ideation,don’t want to die,"['emotion dysregulation', 'psychological capital']"
+P01060,Indicator,none,['emotion dysregulation']
+P01061,Behavior,overdose on valerian root,"['coping strategy', 'suicide means (with access)']"
+P01062,Behavior,Can u die from 5 valerian root pills; 5 valerian root pills and 3 others,['suicide means (with access)']
+P01063,Attempt,I took them like 2-3 hours ago; 5 valerian root pills and 3 others,"['coping strategy', 'poor social support', 'suicide means (with access)']"
+P01064,Attempt,i should have taken more,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'suicide means (with access)']"
+P01065,Ideation,I should have died,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'mental health issues']"
+P01066,Behavior,i have a blade; i really should i really should,"['emotion dysregulation', 'low self-esteem', 'suicide means (with access)']"
+P01117,Attempt,I'm overdosing,['suicide means (with access)']
+P01118,Behavior,about to do suicide by cop,[]
+P01119,Attempt,I've been overdosing,['stressful life event']
+P01120,Behavior,about to overdose,['poor social support']
+P01121,Behavior,about to overdose,['poor social support']
+P01122,Attempt,I just overdosed; caused my suicide,[]
+P01123,Ideation,driven to suicide,['hopelessness']
+P01124,Attempt,overdosing until I'm dead,['suicide means (with access)']
+P01125,Behavior,planning to overdose,['poor social support']
+P01126,Behavior,about to overdose,[]
+P01127,Behavior,planning to overdose,[]
+P01128,Indicator,none,"['emotion dysregulation', 'poor social support']"
+P01129,Behavior,about to drug myself to death,[]
+P01130,Attempt,I just overdosed,['suicide means (with access)']
+P01131,Attempt,I just overdosed again,"['poor social support', 'prior self-harm or suicidal thought/attempt']"
+P01132,Ideation,doing something that could get me killed,[]
+P01133,Indicator,none,['coping strategy']
+P01134,Behavior,about to overdose,['suicide means (with access)']
+P01174,Indicator,none,"['interpersonal difficulty', 'low self-esteem', 'poor social support']"
+P01175,Ideation,a suicidal person; Im suicidal and need help,"['coping strategy', 'psychological capital']"
+P01176,Ideation,end in lonelynes and suicide; only a question of when,"['hopelessness', 'low self-esteem', 'poor social support']"
+P01177,Ideation,I should be dead; Killmee,"['low self-esteem', 'poor social support']"
+P01178,Ideation,I should die,"['low self-esteem', 'stressful life event']"
+P01179,Behavior,attempt to kill myself on august 18th,"['interpersonal difficulty', 'low self-esteem', 'poor social support']"
+P01180,Behavior,kill myself in august; rather just be dead and gone,"['hopelessness', 'interpersonal difficulty', 'low self-esteem', 'poor social support']"
+P01181,Indicator,none,['meaning in life']
+P01282,Attempt,This time I’ll die for real.; I’m stabbing myself to death; won’t be possible to survive,"['dysfunctional family', 'emotion dysregulation', ""exposure to others' suicide"", 'interpersonal difficulty', 'interpersonal violence', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'sense of responsibility', 'social support', 'suicide means (with access)']"
+P01283,Behavior,so I can stab myself,"['emotion dysregulation', 'suicide means (with access)']"
+P01284,Attempt,why is it so hard to stab myself; physically cannot get the knife deep enough,"['coping strategy', 'suicide means (with access)']"
+P01285,Behavior,I JUST NEED TO DIE; I JUST NEED A WAY TO DIE,"['coping strategy', 'emotion dysregulation']"
+P01286,Attempt,I tried running into light traffic; I need a way to kill myself,"['emotion dysregulation', ""exposure to others' suicide"", 'hopelessness', 'meaning in life', 'prior self-harm or suicidal thought/attempt', 'suicide means (with access)']"
+P01287,Attempt,I WAS SUPPOSED TO KILO MYSELF TWO DAYS AGO; GIVE ME A METHOD ALREADY; KILLING MYSELF IS THE BEST SOLUTION,"['emotion dysregulation', 'hopelessness', 'prior self-harm or suicidal thought/attempt']"
+P01288,Behavior,jump into extremely busy traffic; get run over so many times I die; I’m gonna die finally,"['emotion dysregulation', 'suicide means (with access)']"
+P01289,Behavior,"This time will be the final time; stab myself in the heart; Goodbye, friends!","['prior self-harm or suicidal thought/attempt', 'suicide means (with access)']"
+P01290,Attempt,took one and a half bottles of my anti-depressants; how long do I have to wait til I die from it,"['mental health issues', 'suicide means (with access)']"
+P01360,Ideation,kill myself,[]
+P01361,Behavior,1 week left; easy and less painful methods,[]
+P01362,Indicator,none,['hopelessness']
+P01363,Ideation,going to end it soon,"['low self-esteem', 'poor social support']"
+P01364,Indicator,none,[]
+P01365,Behavior,I do self harm,['low self-esteem']
+P01366,Indicator,none,"['hopelessness', 'interpersonal difficulty', 'interpersonal violence', 'low socio-economic status']"
+P01367,Behavior,Lost the last reason to not die; I will die now,"['hopelessness', 'meaning in life']"
+P01368,Behavior,planned to die on 2nd May; I hope I can die on that day,"['hopelessness', 'low self-esteem']"
+P01369,Behavior,cancelled my suicide plan; don,"['prior self-harm or suicidal thought/attempt', 'psychological capital']"
+P01370,Indicator,none,"['emotion dysregulation', 'physical health/characteristic']"
+P01371,Behavior,jump off my balcony,"['cognitive deficits', 'coping strategy', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'mental health issues', 'poor social support']"
+P01372,Indicator,none,"['emotion dysregulation', 'low self-esteem']"
+P01373,Indicator,none,"['hopelessness', 'psychological capital']"
+P01374,Indicator,none,"['hopelessness', 'psychological capital']"
+P01375,Indicator,none,['emotion dysregulation']
+P01376,Indicator,none,[]
+P01377,Indicator,none,['emotion dysregulation']
+P01378,Indicator,none,"['emotion dysregulation', 'hopelessness', 'low self-esteem']"
+P01463,Indicator,none,"['emotion dysregulation', 'low self-esteem', 'poor social support']"
+P01464,Indicator,none,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'poor social support']"
+P01465,Indicator,none,"['hopelessness', 'low self-esteem', 'poor social support']"
+P01466,Indicator,none,"['hopelessness', 'poor social support']"
+P01467,Indicator,none,['hopelessness']
+P01468,Indicator,none,"['hopelessness', 'low socio-economic status', 'mental health issues']"
+P01469,Indicator,none,"['hopelessness', 'low socio-economic status']"
+P01470,Ideation,I’m going to kill it,"['emotion dysregulation', 'hopelessness', 'low self-esteem']"
+P01478,Indicator,none,[]
+P01479,Ideation,being suicidal,"['coping strategy', 'emotion dysregulation', ""exposure to others' suicide"", 'interpersonal difficulty', 'low self-esteem', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'social support']"
+P01480,Ideation,kill my self,"['emotion dysregulation', 'interpersonal difficulty', 'low self-esteem', 'poor social support', 'social support', 'stressful life event']"
+P01481,Indicator,none,['low self-esteem']
+P01482,Indicator,none,['low self-esteem']
+P01483,Indicator,none,['poor social support']
+P01484,Behavior,promised my friend i wouldn’t do it today; there’s always tmrw,"['sense of responsibility', 'social support']"
+P01485,Ideation,suicide hotline,"['coping strategy', 'poor social support', 'social support']"
+P01486,Indicator,none,"['interpersonal difficulty', 'low self-esteem', 'poor social support']"
+P01487,Behavior,wish i could find my exacto knife,['suicide means (with access)']
+P01488,Ideation,want to kill myself; i just don’t want to exist,"['low self-esteem', 'poor social support']"
+P01489,Ideation,wants to end their life,"['dysfunctional family', 'poor social support']"
+P01490,Indicator,none,"['coping strategy', 'poor social support']"
+P01491,Indicator,none,['poor social support']
+P01492,Behavior,planning for november 1st,"['coping strategy', 'poor social support']"
+P01493,Ideation,kill myself,"['hopelessness', 'interpersonal difficulty', 'poor social support']"
+P01494,Indicator,none,['poor social support']
+P01545,Ideation,given up and turned to alcohol and die,"['cognitive deficits', 'coping strategy', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'mental health issues', 'poor social support', 'stressful life event']"
+P01546,Ideation,I just wanna die; I constantly wanna die; suicide is too scary for me,"['emotion dysregulation', 'hopelessness', 'poor social support']"
+P01547,Ideation,I often want to die; anytime I get close I get scared away,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'substance use']"
+P01548,Ideation,suicidal thoughts and feelings,"['emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'psychological capital']"
+P01549,Ideation,I could never succeed with doing it; I dont wanna live the rest of my life,['hopelessness']
+P01550,Ideation,screaming af me to kill myself; suicidal thoughts way more painful,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'physical health/characteristic', 'prior self-harm or suicidal thought/attempt', 'substance use']"
+P01551,Behavior,almost killed myself last month; suicidal often,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'social support', 'stressful life event']"
+P01552,Indicator,none,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'mental health issues', 'poor social support', 'psychological capital', 'social support', 'stressful life event']"
+P01583,Indicator,none,"['hopelessness', 'poor social support']"
+P01584,Ideation,makes me suicidal,[]
+P01585,Indicator,none,"['emotion dysregulation', 'hopelessness']"
+P01586,Indicator,none,"['hopelessness', 'poor social support']"
+P01587,Attempt,Tried to choke myself,['emotion dysregulation']
+P01588,Indicator,none,[]
+P01589,Attempt,Tried to choke myself again; almost passed out,['prior self-harm or suicidal thought/attempt']
+P01590,Indicator,none,['low self-esteem']
+P01591,Indicator,none,[]
+P01592,Ideation,I DON'T WANT TO LIVE ANYMORE,['hopelessness']
+P01593,Indicator,none,[]
+P01594,Ideation,want to kill myself; think about it 24/7,"['hopelessness', 'psychological capital']"
+P01595,Indicator,none,"['emotion dysregulation', 'low self-esteem']"
+P01596,Indicator,none,"['dysfunctional family', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'poor social support']"
+P01597,Ideation,wish i was dead,['emotion dysregulation']
+P01598,Ideation,i don’t wish to live like this anymore,"['hopelessness', 'interpersonal difficulty', 'low self-esteem']"
+P01599,Behavior,shoot myself in the head; want to kms; wishing i were dead,['emotion dysregulation']
+P01600,Ideation,i want to die,"['emotion dysregulation', 'hopelessness']"
+P01601,Ideation,feeling suicidal; ruins my motivation to live,['emotion dysregulation']
+P01602,Behavior,jumping out right now; i’m suicidal; unlocked the rear door,"['emotion dysregulation', 'suicide means (with access)']"
+P01646,Behavior,buy rope again,"['prior self-harm or suicidal thought/attempt', 'suicide means (with access)']"
+P01647,Ideation,kill myself,"['hopelessness', 'poor social support']"
+P01648,Behavior,Thinking of attempting now,[]
+P01649,Indicator,none,['poor social support']
+P01650,Indicator,none,['hopelessness']
+P01651,Ideation,driving me to suicide,[]
+P01652,Indicator,none,['emotion dysregulation']
+P01653,Ideation,kms,[]
+P01654,Indicator,none,"['emotion dysregulation', 'poor social support']"
+P01655,Ideation,want to kill myself,['hopelessness']
+P01656,Behavior,gonna rope,['suicide means (with access)']
+P01657,Ideation,going to suicide,[]
+P01658,Indicator,none,"['hopelessness', 'low self-esteem', 'poor social support']"
+P01659,Indicator,none,[]
+P01660,Behavior,about to attempt,[]
+P01661,Ideation,about to try to kill myself,[]
+P01662,Ideation,I'm going to kill myself,[]
+P01663,Ideation,I'm going to kill myself,['poor social support']
+P01664,Ideation,want to kill myself,['interpersonal violence']
+P01665,Ideation,planning to kill myself,[]
+P01666,Attempt,about to attempt,[]
+P01667,Indicator,none,['poor social support']
+P01668,Ideation,gonna kill myself,['poor social support']
+P01669,Indicator,none,['coping strategy']
+P01670,Indicator,none,['traumatic experience']
+P01671,Ideation,gonna kill myself,[]
+P01672,Attempt,about to attempt,[]
+P01673,Ideation,before I suicide,[]
+P01772,Indicator,none,"['emotion dysregulation', 'hopelessness']"
+P01773,Ideation,Why should I live; going to inevitably die someday; inevitable end,"['hopelessness', 'meaning in life']"
+P01774,Ideation,I just want to die so fucking bad; please just kill me tonight; killing myself,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'mental health issues']"
+P01775,Ideation,thought of suicide seems so appealing; please just kill me tonight; killing myself,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'mental health issues']"
+P01776,Ideation,commit suicide,"['hopelessness', 'poor social support']"
+P01777,Behavior,I've set my date for November 14th; handing in my 17 week notice,['hopelessness']
+P01778,Indicator,none,['hopelessness']
+P01779,Indicator,none,"['emotion dysregulation', 'low self-esteem']"
+P01780,Indicator,none,[]
+P01781,Behavior,might try to kill myself tonight; don't deserve to live,"['emotion dysregulation', 'low self-esteem']"
+P01782,Ideation,wish someone would assassinate me; kill myself,[]
+P01783,Indicator,none,['hopelessness']
+P01784,Behavior,jumping from bridge soon,"['emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'interpersonal violence', 'low self-esteem', 'sexual orientation related issues', 'suicide means (with access)']"
+P01785,Behavior,does someone know of water bridges; done with everything,['suicide means (with access)']
+P01786,Behavior,water bridge with no fense,['suicide means (with access)']
+P01787,Behavior,looking for water bridges; wish i was never born; am seriously done,"['emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'physical health/characteristic', 'suicide means (with access)']"
+P01788,Behavior,going to a bridge in few months; i be gone in few months,"['emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'interpersonal violence', 'poor social support', 'sexual orientation related issues', 'suicide means (with access)', 'traumatic experience']"
+P01789,Ideation,wishes they were not alive,[]
+P01790,Ideation,dont want to be here anymore; i wish i was never born,['hopelessness']
+P01848,Behavior,killing myself in a few days,[]
+P01849,Behavior,planning to end my life,['coping strategy']
+P01850,Ideation,shifting between the choices of suicide and no suicide; changing my mind whether or not to commit suicide,"['coping strategy', 'hopelessness']"
+P01851,Attempt,second attempt tomorrow,['prior self-harm or suicidal thought/attempt']
+P01852,Ideation,change my mind about killing myself,"['coping strategy', 'mental health issues', 'psychological capital', 'social support']"
+P01853,Behavior,going to kill myself after 2 days; postponed the date,"['interpersonal difficulty', 'interpersonal violence', 'traumatic experience']"
+P01854,Ideation,want to commit suicide so much,"['coping strategy', 'dysfunctional family', 'hopelessness', 'interpersonal difficulty', 'mental health issues', 'psychological capital', 'sense of responsibility', 'social support', 'traumatic experience']"
+P01983,Indicator,none,"['emotion dysregulation', 'mental health issues']"
+P01984,Indicator,none,['poor social support']
+P01985,Indicator,none,"['hopelessness', 'low self-esteem', 'stressful life event']"
+P01986,Indicator,none,"['emotion dysregulation', 'interpersonal difficulty', 'poor social support']"
+P01987,Ideation,I wasn’t suicidal,[]
+P01988,Indicator,none,['emotion dysregulation']
+P01989,Indicator,none,['hopelessness']
+P01990,Indicator,none,['emotion dysregulation']
+P01991,Indicator,none,"['coping strategy', 'emotion dysregulation', 'mental health issues']"
+P01992,Indicator,none,['stressful life event']
+P01993,Indicator,none,['stressful life event']
+P01994,Indicator,none,[]
+P01995,Indicator,none,"['hopelessness', 'poor social support']"
+P01996,Indicator,none,"['emotion dysregulation', 'hopelessness', 'stressful life event']"
+P02050,Indicator,none,['emotion dysregulation']
+P02051,Indicator,none,['emotion dysregulation']
+P02052,Indicator,none,"['coping strategy', 'emotion dysregulation', 'mental health issues']"
+P02053,Ideation,want to die,['hopelessness']
+P02054,Ideation,want to kill myself,"['poor social support', 'traumatic experience']"
+P02055,Indicator,none,"['coping strategy', 'emotion dysregulation']"
+P02056,Ideation,want to hurt kill myself,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'interpersonal difficulty']"
+P02073,Indicator,none,"['low self-esteem', 'poor social support']"
+P02074,Attempt,tried to kill myself; can’t even die; don’t die,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'mental health issues']"
+P02075,Ideation,I just want to die,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'physical health/characteristic', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'traumatic experience']"
+P02076,Behavior,Give me ideas to cut into my arm; I feel like cutting,[]
+P02077,Behavior,sent pictures of my slit wrists,"['dysfunctional family', 'interpersonal difficulty', 'poor social support']"
+P02078,Behavior,I wanna die; cut my stomach open and take out my organs,"['emotion dysregulation', 'low self-esteem', 'physical health/characteristic']"
+P02079,Indicator,none,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'hopelessness']"
+P02080,Behavior,slit my wrists and lay in a ocean; cut open my throat,"['dysfunctional family', 'hopelessness', 'interpersonal difficulty', 'interpersonal violence', 'low self-esteem', 'social support', 'traumatic experience']"
+P02081,Indicator,none,"['coping strategy', 'interpersonal difficulty', 'mental health issues']"
+P02082,Indicator,none,[]
+P02083,Behavior,Tell me ways that I could kill myself; please just tell me how,"['coping strategy', 'stressful life event']"
+P02084,Ideation,I just want to die,"['cognitive deficits', 'coping strategy', 'emotion dysregulation', 'mental health issues', 'traumatic experience']"
+P02114,Indicator,none,[]
+P02115,Indicator,none,"['coping strategy', 'traumatic experience']"
+P02116,Indicator,none,"['coping strategy', 'traumatic experience']"
+P02117,Indicator,none,"['interpersonal violence', 'mental health issues']"
+P02118,Indicator,none,['hopelessness']
+P02119,Indicator,none,[]
+P02120,Indicator,none,[]
+P02121,Indicator,none,[]
+P02122,Indicator,none,[]
+P02123,Indicator,none,[]
+P02124,Indicator,none,[]
+P02181,Indicator,none,"['hopelessness', 'low self-esteem']"
+P02182,Behavior,want to die; killing myself alone; put it right through my fucking heart,"['hopelessness', 'low self-esteem', 'poor social support', 'suicide means (with access)']"
+P02183,Ideation,want to die; just want to be gone,"['emotion dysregulation', 'low self-esteem', 'mental health issues']"
+P02184,Indicator,none,"['hopelessness', 'low self-esteem', 'poor social support']"
+P02185,Ideation,I don’t want to live anymore; want to be gone for good,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'mental health issues']"
+P02186,Ideation,want to die,"['emotion dysregulation', 'hopelessness', 'low self-esteem']"
+P02187,Ideation,I want to die; don’t want to be here anymore,['hopelessness']
+P02188,Ideation,want to sleep forever; don’t want to be alive anymore; doing my best not to live,"['hopelessness', 'low self-esteem']"
+P02189,Indicator,none,"['emotion dysregulation', 'hopelessness']"
+P02272,Behavior,carbon monoxide poisoning inside a car; start working on my suicide note tomorrow; just going to fucking end it all,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'meaning in life', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'social support', 'suicide means (with access)']"
+P02273,Behavior,choosing carbon monoxide poisoning; drafting my note today; go through with it,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'suicide means (with access)']"
+P02274,Ideation,I'm suicidal; feeling suicidal; attempt suicide again,"['hopelessness', 'low self-esteem', 'low socio-economic status', 'sense of responsibility']"
+P02275,Ideation,I'm suicidal; feeling suicidal,"['coping strategy', 'emotion dysregulation', 'interpersonal difficulty', 'low socio-economic status', 'social support', 'stressful life event']"
+P02276,Ideation,feel more suicidal,"['coping strategy', 'hopelessness', 'low socio-economic status']"
+P02277,Behavior,I wanna die; thought about different ways to go; scraping knuckles on the wall,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'low socio-economic status', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'sense of responsibility', 'suicide means (with access)']"
+P02278,Ideation,want to kill yourself; off yourself,"['emotion dysregulation', 'low socio-economic status']"
+P02279,Ideation,wish assisted suicide was a thing; freedom to die,['hopelessness']
+P02280,Behavior,self harming again; scratching my arm; want to die,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'prior self-harm or suicidal thought/attempt']"
+P02281,Ideation,make sure they shoot me,[]
+P02282,Indicator,none,"['coping strategy', 'social support']"
+P02283,Indicator,none,['psychological capital']
+P02284,Behavior,Started my suicide note today; end my life,[]
+P02285,Ideation,killed myself; want,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'prior self-harm or suicidal thought/attempt']"
+P02286,Behavior,thinking of offing myself before then,['stressful life event']
+P02287,Behavior,Being run over by a train; sneak my dad's car in the middle of the night,['suicide means (with access)']
+P02288,Behavior,Method of suicide that has the highest success rate; hanging; run over by a train is better,['social support']
+P02289,Behavior,wanna kill myself; stealing my dad's car and driving to the tracks; wait for the train to run me over,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'meaning in life', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'suicide means (with access)']"
+P02290,Indicator,none,"['cognitive deficits', 'coping strategy', 'emotion dysregulation', 'interpersonal difficulty', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'stressful life event']"
+P02291,Behavior,still want to end my life; give it another week,"['dysfunctional family', 'low self-esteem', 'social support']"
+P02292,Indicator,none,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'interpersonal difficulty', 'low self-esteem', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'social support', 'stressful life event', 'traumatic experience']"
+P02293,Behavior,tying the jump rope around my neck; pushing me towards suicide,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'suicide means (with access)']"
+P02294,Indicator,none,"['emotion dysregulation', 'hopelessness']"
+P02438,Behavior,successful suicide attempt; chain smoke cigarettes,['suicide means (with access)']
+P02439,Behavior,Die of cutting; Die of Starvation,['suicide means (with access)']
+P02440,Behavior,pushing me to have a successful attempt; time is running out quickly; All I can do is stay alive,"['emotion dysregulation', 'hopelessness', 'low socio-economic status', 'mental health issues', 'psychological capital']"
+P02441,Indicator,none,[]
+P02442,Ideation,die in my sleep,[]
+P02443,Behavior,I want to cut to end my life,"['prior self-harm or suicidal thought/attempt', 'suicide means (with access)']"
+P02444,Ideation,It might happen to me too,[]
+P02454,Behavior,I want to die so badly; planned to kill myself for a long time; went back to cutting myself again; hopefully I'll end up killing myself somehow,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'poor school performance', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'substance use']"
+P02455,Behavior,I'm going to end it this winter; find a nice time in the winter; I'll end it,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'meaning in life', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital']"
+P02456,Indicator,none,"['meaning in life', 'poor social support']"
+P02457,Ideation,do it already,"['hopelessness', 'poor social support']"
+P02458,Indicator,none,"['hopelessness', 'low self-esteem']"
+P02459,Ideation,kill me; let me die already; I'm going to end it,"['emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem']"
+P02460,Ideation,wish I'd just drop dead; want to end it already; wish I never existed,"['emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'stressful life event']"
+P02461,Indicator,none,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'mental health issues']"
+P02462,Indicator,none,"['coping strategy', 'emotion dysregulation', 'interpersonal difficulty', 'interpersonal violence', 'low self-esteem', 'mental health issues', 'substance use']"
+P02463,Behavior,I have liquor and a blade,"['prior self-harm or suicidal thought/attempt', 'suicide means (with access)']"
+P02464,Indicator,none,"['coping strategy', 'emotion dysregulation', 'interpersonal difficulty', 'low self-esteem', 'poor social support']"
+P02465,Ideation,I just hate living; go through with my plan,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'poor social support', 'psychological capital', 'social support']"
+P02466,Indicator,none,"['emotion dysregulation', 'interpersonal difficulty', 'low self-esteem', 'poor social support']"
+P02467,Indicator,none,"['coping strategy', 'emotion dysregulation', 'interpersonal difficulty', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'social support', 'stressful life event', 'traumatic experience']"
+P02492,Behavior,I need to do it now; get barbiturates; I was suicidal,"['emotion dysregulation', 'suicide means (with access)']"
+P02493,Behavior,I want to end my life; buying pills and taking them to die,"['hopelessness', 'psychological capital']"
+P02494,Behavior,Suicide note,['sense of responsibility']
+P02495,Ideation,scare yourself out of suicide; suicidebereavement,"[""exposure to others' suicide""]"
+P02496,Ideation,kill myself when my gut told me to; better to go out on a high note,"['hopelessness', 'prior self-harm or suicidal thought/attempt']"
+P02497,Indicator,none,"['coping strategy', 'mental health issues', 'psychological capital']"
+P02498,Indicator,none,[]
+P02499,Indicator,none,['stressful life event']

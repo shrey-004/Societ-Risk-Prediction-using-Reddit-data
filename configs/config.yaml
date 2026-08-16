@@ -1,0 +1,80 @@
+# =========================================================
+# Explainable Suicide Risk Detection (IEEE BigData 2026 Cup)
+# Master configuration
+# =========================================================
+
+project:
+  name: "esrd-bigdata2026"
+  seed: 42
+
+paths:
+  raw_train_xlsx: "data/raw/train.xlsx"
+  processed_dir: "data/processed"
+  checkpoints_dir: "outputs/checkpoints"
+  logs_dir: "outputs/logs"
+  predictions_dir: "outputs/predictions"
+
+data:
+  # canonical label set for Subtask 1 (post-level)
+  risk_labels: ["Indicator", "Ideation", "Behavior", "Attempt"]
+  # canonical factor set for Subtask 2 (multi-label)
+  # populated after Phase 1 cleaning (kept here for reference/versioning)
+  num_factors: 24
+  val_split: 0.15
+  test_split: 0.0   # no held-out test yet; official hidden test is separate
+  split_by: "anon_user_id"   # GROUP split — never leak a user across train/val
+
+model:
+  subtask1_encoder: "mental/mental-bert-base-uncased"  # pretrained on r/SuicideWatch + other mental health subreddits — direct domain match, unlike Bio_ClinicalBERT (clinical notes)
+  # was 256 — audit showed ~7% of posts exceed 256 wordpiece tokens and ~3%
+  # of rows (45/1364) have their evidence span(s) starting past the word-256
+  # truncation point, i.e. silently unlearnable/unpredictable before this
+  # change. 512 is BERT's hard max and covers >98% of posts whole.
+  max_seq_len: 512
+  subtask2_encoder: "mental/mental-bert-base-uncased"  # switched from Bio_ClinicalBERT (clinical notes,
+  # domain-mismatched) after 5-fold CV showed +0.135 absolute macro F1 (0.266->0.401), beating it on
+  # every single fold — see reports/phase4_factor_classifier_report_fold{0..4}.md (mentalbert suffix)
+
+training:
+  # NOTE: batch_size may need to drop (e.g. 8 + grad_accum 2) at max_seq_len
+  # 512 depending on A100 memory headroom — check_env.py / nvidia-smi first.
+  batch_size: 16
+  eval_batch_size: 32
+  epochs: 8
+  lr: 2.0e-5
+  weight_decay: 0.01
+  warmup_ratio: 0.06
+  fp16: true              # use mixed precision on the A100
+  gradient_accumulation_steps: 1
+  early_stopping_patience: 3
+  # Used ONLY by --full_data training runs (train_risk_classifier.py,
+  # train_evidence_extractor.py, train_factor_classifier.py), which have no
+  # real held-out set to early-stop against. Set this AFTER running the
+  # --fold 0..4 CV runs: look at which epoch each fold's best checkpoint
+  # came from (early_stopping_patience=3 means it's rarely the full 8) and
+  # use roughly that number here. Defaults to `epochs` (8) if left unset,
+  # which is almost certainly too many and will overfit the full-data model
+  # somewhat — don't skip tuning this.
+  final_epochs: 8
+
+cross_validation:
+  # Used by scripts/make_kfold_splits.py + the --fold flag on the train_*.py
+  # scripts. Grouped by anon_user_id (never split a user across folds) and
+  # stratified by risk_label so each fold keeps a representative label mix.
+  n_folds: 5
+  seed: 42
+
+hardware:
+  device: "cuda"           # falls back to cpu automatically if unavailable
+  shared_gpu_note: "A100 is shared — check nvidia-smi before launching, use small batch first"
+
+scoring:
+  # CONFIRMED from official rules doc (resolves the earlier 70/30 vs 60/40
+  # ambiguity — both were partially right):
+  #   Score = 0.4 * risk_detection_weighted_f1
+  #         + 0.3 * evidence_phrase_f1
+  #         + 0.3 * factors_macro_f1
+  # i.e. Subtask 1 (risk + evidence) = 70% total, Subtask 2 (factors) = 30%.
+  risk_detection_weight: 0.40
+  evidence_weight: 0.30
+  factors_weight: 0.30

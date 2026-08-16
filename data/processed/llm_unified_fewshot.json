@@ -1,0 +1,245 @@
+[
+ {
+  "row_id": "P02473",
+  "risk": "Indicator",
+  "evidence": [],
+  "factors": [
+   "emotion dysregulation",
+   "hopelessness",
+   "meaning in life",
+   "psychological capital"
+  ],
+  "post": "I don't think any of us actually wanna stop living but just wanna go back to a time where we didn't wanna die.. Being in such a fragile state for so long can lead us to believe some things our conscious know isn't true.."
+ },
+ {
+  "row_id": "P00963",
+  "risk": "Indicator",
+  "evidence": [],
+  "factors": [
+   "coping strategy",
+   "low self-esteem",
+   "social support"
+  ],
+  "post": "Do I really deserve help? A lot of people tell me that I should get help and that I deserve it. But I truly believe I don't deserve the help and deserve to be dead instead... Recently, I've been thinking about opening to my siblings but it's just so hard to have the courage to tell them..."
+ },
+ {
+  "row_id": "P01454",
+  "risk": "Indicator",
+  "evidence": [
+   "That feeling has kept me from trying ever since",
+   "first time I didn't want to die",
+   "Let's hold on together"
+  ],
+  "factors": [
+   "coping strategy",
+   "hopelessness",
+   "meaning in life",
+   "prior self-harm or suicidal thought/attempt",
+   "psychological capital",
+   "sense of responsibility",
+   "social support"
+  ],
+  "post": "As someone who's tried suicide twice. Let me tell you. Both times I chose pills. Why? Because I am scared of pain and didn't know any other way. First time I was 20: I took sleeping pills. I fell in a deep sleep and I couldn't breathe properly. At one point I couldn't move and so I cried and accepted I was going to die. It was peaceful and scary at the same time. I didn't know what was coming. \"What will be of my family? \", \"Do I have the strength to continue? \", \"what if hell is real?, \"I don't want to go to hell\". These are thoughts that were racing in my mind. It the end, I just accepted th [...] ct kicked in. I didn't want to fall asleep. My heart was slowing down, I was dizzy, i wanted to throw up. That was The first time I didn't want to die. I remembered when I tried at 20. I was scared of what comes next. \"If life is painful, why should the afterlife be any different?\" I told myself. I was honestly scared. That feeling has kept me from trying ever since. It's a scary feeling that you won't experience until you're near death. I also saw some things that no one wil believe. It was honestly the most beautiful thing one can see. It was life. I know it's hard everyone, trust me I do. I like to believe that this is all a test and we will be in a better more beautiful place once it's complete. Let's hold on together."
+ },
+ {
+  "row_id": "P00741",
+  "risk": "Indicator",
+  "evidence": [
+   "I'm glad I didn't",
+   "fight those urges."
+  ],
+  "factors": [
+   "coping strategy",
+   "emotion dysregulation",
+   "interpersonal violence",
+   "meaning in life",
+   "prior self-harm or suicidal thought/attempt",
+   "psychological capital"
+  ],
+  "post": "I(f15) was told to wrap a bag around my head to kill myself on cam I(f15) dunno, I guess I just really need a therapist. I know it'll help, if I find the right one, at least a bit. Right now I'm just having the worst memories pop up in my head right now. I'm think maybe writing it out will help some, so here goes nothing. Right now I'm just remembering this conversation I had with a stranger a while back that's really stuck with me. Basically we were talking about the fact that I was suicidal/self harmed and well..it took a turn for the worst. He said that he thought all people who wanted to commit suicide were cowards because he had never met anyone who actually ever went through it and said he really wished I would but he didn't think I had the guts. It was really triggering. He also told me that he wanted to FaceTime me and watch me wrap a bag around my head and suffocate so that he could make sure I really went through with it. When I think about it I just get more and more disturbed\u2026why do people say such awful things? Why did I consider it? Why did part of me want to prove him wrong and end it all then. I'm glad I didn't, I'm still trying to fight those urges. I don't like that memory\u2026thanks for listening. If anyone has any advice on how to handle this or any thoughts on that experience that'd be appreciated."
+ },
+ {
+  "row_id": "P00618",
+  "risk": "Ideation",
+  "evidence": [
+   "kill myself"
+  ],
+  "factors": [
+   "emotion dysregulation",
+   "hopelessness",
+   "low self-esteem"
+  ],
+  "post": "so stupid why do i tell myself it gets better. im so dumb. i hate being alive. my life is such a lost cause like damn why am i here. i cant wait for when i kill myself"
+ },
+ {
+  "row_id": "P01619",
+  "risk": "Ideation",
+  "evidence": [
+   "wish something could just kill me"
+  ],
+  "factors": [
+   "coping strategy",
+   "emotion dysregulation",
+   "hopelessness",
+   "low self-esteem"
+  ],
+  "post": "I gave myself 9 months And nothing had gotten better. I am too much of a pussy to do anything about it and it sucks I hate it. I wish something could just kill me so my loved ones could blame that instead of themselves"
+ },
+ {
+  "row_id": "P02088",
+  "risk": "Ideation",
+  "evidence": [
+   "oldest son wanted to die",
+   "The thoughts I have"
+  ],
+  "factors": [
+   "coping strategy",
+   "dysfunctional family",
+   "hopelessness",
+   "sense of responsibility",
+   "social support"
+  ],
+  "post": "Anyone have parents that care? Does anyone have parents that actually care? I do, and it hurts knowing they think I'm fine. Sitting across from them completely dead inside. If they only knew their oldest son wanted to die. The thoughts I have. I can't tell them because it would ruin them. What do I do/say? Should I tell them? Will they care?"
+ },
+ {
+  "row_id": "P02412",
+  "risk": "Behavior",
+  "evidence": [
+   "thought a lot about downing a handful of Tylenol today",
+   "overdosing as a method of suicide"
+  ],
+  "factors": [
+   "low self-esteem",
+   "suicide means (with access)"
+  ],
+  "post": "I'm always so against resorting to overdosing as a method of suicide, but I thought a lot about downing a handful of Tylenol today I know there's a high chance I'll survive and I know it'll be painful as fuck. I know I'll probably get a lot irreversible organ damage, especially my liver. I might even need a transplant which will make me more of burden on my family than I already feel like I am. It's honestly so stupid."
+ },
+ {
+  "row_id": "P00867",
+  "risk": "Behavior",
+  "evidence": [
+   "My plan is to die",
+   "slit both of my wrists",
+   "take a whole bottle of sleeping pills"
+  ],
+  "factors": [
+   "coping strategy",
+   "hopelessness",
+   "stressful life event",
+   "suicide means (with access)"
+  ],
+  "post": "My plans for tonight <3 My plan is to die, yep just to fucking die. What I want to do it slit both of my wrists and then take a whole bottle of sleeping pills. I have to wait 12 hours though so I might change my mind. Might change my mind before I even do it. Oh well the pain of losing the only person I wanted to love for the rest of my life sucks and I'm done dealing with it."
+ },
+ {
+  "row_id": "P00638",
+  "risk": "Behavior",
+  "evidence": [
+   "kill myself now"
+  ],
+  "factors": [],
+  "post": "i am scared that i will end up in hospital i will kill myself now but i am scared that it will fail can someone help me"
+ },
+ {
+  "row_id": "P02249",
+  "risk": "Attempt",
+  "evidence": [
+   "Partial hanging",
+   "I've tried partial like 4 times",
+   "Maybe tonight."
+  ],
+  "factors": [
+   "prior self-harm or suicidal thought/attempt",
+   "sense of responsibility",
+   "suicide means (with access)"
+  ],
+  "post": "Partial hanging? I've tried partial like 4 times but it never worked lol. Maybe I just wasn't applying enough pressure. I really wanna try again soon. Maybe tonight. Only thing stopping me is I have shit to take care of before I attempt and I'm too lazy to actually do anything rn"
+ },
+ {
+  "row_id": "P01890",
+  "risk": "Attempt",
+  "evidence": [
+   "almost hanged myself today",
+   "took the rope",
+   "tied it to the branch of a tree",
+   "tied it around my neck"
+  ],
+  "factors": [
+   "coping strategy",
+   "emotion dysregulation",
+   "poor social support",
+   "prior self-harm or suicidal thought/attempt",
+   "sense of responsibility"
+  ],
+  "post": "I almost hanged myself today So I was home alone. No one could see or stop me. I went outside,took the rope, and tied it to the branch of a tree. When I tied it around my neck,my hands were sweaty and I was feeling like fainting. However, I stopped myself immediately. I don't know why. It was probably from instinct? Probably because I was afraid that someone will somehow see me and freak out? I don't know, I just hid the rope,returned inside and listened to music."
+ },
+ {
+  "row_id": "P00857",
+  "risk": "Attempt",
+  "evidence": [
+   "attempted suicide a few months ago"
+  ],
+  "factors": [
+   "coping strategy",
+   "emotion dysregulation",
+   "hopelessness",
+   "mental health issues",
+   "prior self-harm or suicidal thought/attempt",
+   "stressful life event"
+  ],
+  "post": "Trying to move out but I'll probably die once I do I attempted suicide a few months ago because my social anxiety and my job didnt work out too well together and it was destroying me. I'm afraid the same thing will happen again and it most definitely will. I might try to get a job that I could work from home like data entry or something but idk. Jobs are hell for me. At least when I move out I'll have better options and more chances to kill myself."
+ },
+ {
+  "row_id": "P01796",
+  "risk": "Indicator",
+  "evidence": [],
+  "factors": [
+   "emotion dysregulation",
+   "interpersonal difficulty",
+   "interpersonal violence",
+   "poor social support",
+   "traumatic experience"
+  ],
+  "post": "IM 19 THESE 2 KIDS ALWAYS LAUGHT AT ME WHEN I ANSWEAR THEM WRONGLY WTF IS THEIR PROBLEM BRUH THEY JOKE AROUND MOCK OR LAUGHT I WANT THEM TO PUNCH THEM SO BADLY HOPEFULLY THEY LEARN (KARMA) ONE DAY AND SUFFER LIKE I DID AND WHEN THEY GROW OTHERS TO JOKE WITH THEM JUST LEAVE ME FK ALONE and yes im extremly shy"
+ },
+ {
+  "row_id": "P01108",
+  "risk": "Indicator",
+  "evidence": [],
+  "factors": [
+   "hopelessness",
+   "low self-esteem",
+   "poor social support"
+  ],
+  "post": "I'm a lousy excuse for a human It will all be over soon then no one will have to deal with me anymore"
+ },
+ {
+  "row_id": "P00908",
+  "risk": "Ideation",
+  "evidence": [
+   "blow my brains out",
+   "wish death would come to me",
+   "kill myself"
+  ],
+  "factors": [
+   "hopelessness",
+   "low self-esteem",
+   "mental health issues"
+  ],
+  "post": "I'm a creep I wanna blow my brains out I haven't done anything illegal but I'm still a creep I'm 21 and I'm already this shitty I just wish death would come to me because I'm too scared to kill my self I'm sure my depression will catch up anyway"
+ },
+ {
+  "row_id": "P01955",
+  "risk": "Behavior",
+  "evidence": [
+   "Suicidal notes",
+   "scars on my hips"
+  ],
+  "factors": [
+   "emotion dysregulation",
+   "interpersonal difficulty",
+   "poor social support",
+   "prior self-harm or suicidal thought/attempt"
+  ],
+  "post": "Suicidal notes If you haven't noticed the scars on my hips, or the fake smile on my lips \ud83d\udc44 or the forced laugh that I've adopted or the way I don't care about the things I use to love, then don't you dare stand at my grave and cry. How can you cry for someone that you don't even know ! !"
+ }
+]

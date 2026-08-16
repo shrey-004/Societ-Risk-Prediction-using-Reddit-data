@@ -1,0 +1,32 @@
+# Core — pinned exact versions to avoid drift (torch/transformers/tokenizers
+# are notorious for silent breakage across minor versions)
+torch==2.4.1
+transformers==4.44.2
+datasets==2.20.0
+accelerate==0.33.0
+tokenizers==0.19.1
+
+# Training utilities
+scikit-learn==1.5.1
+seqeval==1.2.2          # for span/token-level (evidence extraction) eval
+evaluate==0.4.2
+
+# Data handling
+pandas==2.2.2
+openpyxl==3.1.5
+numpy==1.26.4
+pyyaml==6.0.1
+
+# Imbalance handling (Subtask 2 multi-label)
+imbalanced-learn==0.12.3
+
+# Experiment tracking (optional but recommended given multi-phase work)
+tensorboard==2.17.0
+
+# Notebooks / EDA
+matplotlib==3.9.1
+seaborn==0.13.2
+jupyter==1.0.0
+
+# Utilities
+tqdm==4.66.4

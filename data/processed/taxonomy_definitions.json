@@ -1,0 +1,38 @@
+{
+  "_source": "Li et al. 2025, arXiv:2507.10008, Table III (verbatim), fetched 2026-07-14",
+  "risk_levels": {
+    "Indicator": "Post contains no explicit mentions of suicide.",
+    "Ideation": "Post contains explicit suicidal expressions but no suicidal plan.",
+    "Behavior": "Post contains explicit suicidal expressions and self-harm/suicidal plan.",
+    "Attempt": "Post contains explicit mentions of recent/past suicidal attempts."
+  },
+  "risk_level_notes": "Annotation follows the Columbia Suicide Severity Rating Scale (C-SSRS). Dataset-wide distribution: Indicator 37.5%, Ideation 31.5%, Behavior 24.0%, Attempt 7.0%.",
+  "risk_factors": {
+    "mental health issues": "Existing mental disorders (e.g., depression, personality disorders).",
+    "physical health/characteristic": "Physical health issues (e.g., COVID-19, obesity/underweight).",
+    "substance use": "The uncontrollable use of drugs/alcohol/tobacco.",
+    "hopelessness": "Feelings of hopelessness, or feeling trapped/stuck.",
+    "emotion dysregulation": "Emotion regulation difficulties (e.g., uncontrolled anxiety, anger).",
+    "low self-esteem": "Self-negative feelings (e.g., worthlessness, being a burden, self-hate).",
+    "poor school performance": "Low school performance (e.g., failing tests, bad grades).",
+    "low socio-economic status": "Unemployment status, poverty, and homeless, etc.",
+    "interpersonal violence": "Violence or assault, occurring outside home settings.",
+    "prior self-harm or suicidal thought/attempt": "Past, resolved, previous self-harm and suicidal thought/plan/attempt.",
+    "poor social support": "Lack friends, loneliness, being isolated/rejected/neglected/abandoned, etc.",
+    "interpersonal difficulty": "Having difficulty making new friends, socialization, etc.",
+    "dysfunctional family": "Family-related issues that leads to negative impacts on the individual.",
+    "exposure to others' suicide": "Mentioning or describing others' suicidal thoughts, attempt or death.",
+    "stressful life event": "Events that pose challenges but do not lead to traumatic responses.",
+    "traumatic experience": "Event(s) that is overwhelming an individual's ability to cope.",
+    "cognitive deficits": "Having difficulty in cognitive abilities.",
+    "suicide means (with access)": "Description of potential means or access to that means.",
+    "sexual orientation related issues": "Having gender/sexual disorder, same-sex relationship, etc."
+  },
+  "protective_factors": {
+    "social support": "Support from family, partners, friends, healthcare professionals.",
+    "coping strategy": "Activities individuals engage in to deal with stressful situations.",
+    "psychological capital": "Individual's positive psychological state of development.",
+    "sense of responsibility": "Awareness of responsibility to one's own health/survival and to others.",
+    "meaning in life": "Involves cognitive component, motivational component and affective component."
+  }
+}

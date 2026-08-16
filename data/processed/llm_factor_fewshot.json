@@ -1,0 +1,92 @@
+{
+  "physical health/characteristic": [
+    {
+      "row_id": "P02015",
+      "post_clean": "I hate my face and appearance"
+    },
+    {
+      "row_id": "P00064",
+      "post_clean": "Living with chronic pain fucking sucks"
+    }
+  ],
+  "substance use": [
+    {
+      "row_id": "P01896",
+      "post_clean": "Never to early for alcohol :("
+    },
+    {
+      "row_id": "P00377",
+      "post_clean": "I'm so drunk and I want to die"
+    }
+  ],
+  "poor school performance": [
+    {
+      "row_id": "P02012",
+      "post_clean": "Should I drop out of school I have mental breakdowns all the time and I can't see myself actually studying"
+    },
+    {
+      "row_id": "P01889",
+      "post_clean": "I have to hang myself this night! THIS NIGHT I WILL SNEAK OUT AND COMMIT SUICIDE BY HANGING BECAUSE I TOOK A VERY SMALL GRADE ON AN IMPORTANT TEST"
+    }
+  ],
+  "low socio-economic status": [
+    {
+      "row_id": "P01581",
+      "post_clean": "Will never afford another car No job. No life."
+    },
+    {
+      "row_id": "P00033",
+      "post_clean": "good night it sucks that you can't change your face unless you have money"
+    }
+  ],
+  "exposure to others' suicide": [
+    {
+      "row_id": "P00494",
+      "post_clean": "Thankfully no 3K suicides per day in the USA"
+    },
+    {
+      "row_id": "P01441",
+      "post_clean": "Even though I watched my brother attempt suicide, I still want to do it It's fucked up. Seeing him suffer. But it doesn't make me feel any less suicidal."
+    }
+  ],
+  "cognitive deficits": [
+    {
+      "row_id": "P02325",
+      "post_clean": "This world isn't for me I can't even write a coherent post I swear my life is so fucked I have no future I wish I wasn't born here or died and got isekaid"
+    },
+    {
+      "row_id": "P02400",
+      "post_clean": "I have a paper due soon but I cant bring myself to concentrate on it The thoughts keep circling around my mind and it hurts. The only thing that calms me down is reading through the posts on this sub. Am I going insane?"
+    }
+  ],
+  "sexual orientation related issues": [
+    {
+      "row_id": "P01901",
+      "post_clean": "Would castration make things easier? Then I wouldn't even have to try finding a sexual partner"
+    },
+    {
+      "row_id": "P01978",
+      "post_clean": "Fuck Creating Life If you have serious stressors, mental health issues, financial problems, gender issues, history of abuse and not recovered, stuck in a bad relationship DON'T FUCk without birth control. Fuck sad, mental, poor parents. Fuck you."
+    }
+  ],
+  "sense of responsibility": [
+    {
+      "row_id": "P02500",
+      "post_clean": "I would take my life if it didn't hurt people in the process."
+    },
+    {
+      "row_id": "P01327",
+      "post_clean": "i want to harm myself but i can't i don't want to end up in hospital"
+    }
+  ],
+  "meaning in life": [
+    {
+      "row_id": "P01513",
+      "post_clean": "Don't kill yourself Choose to keep fighting, you got this."
+    },
+    {
+      "row_id": "P01838",
+      "post_clean": "Breathe Breathe everything's fine everything's ok don't panic just breathe"
+    }
+  ]
+}
